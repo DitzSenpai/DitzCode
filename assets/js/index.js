@@ -44,7 +44,7 @@ function createHostingTable() {
             },
             {
                 id : 1, 
-                nama : 'SCRIPT SHIROKO BOTZ' ,
+                nama : 'SCRIPT SHIROKO' ,
                 logo : 'assets/photos/games/Shirokobotz.png' ,
                 genre : 'SCRIPT BOT',
                 item : 'SCRIPT',
