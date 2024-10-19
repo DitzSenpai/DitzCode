@@ -7,10 +7,10 @@ function createAdminUser() {
 
     if (!adminExists) {
         let user = {
-            name: 'Admin Kel 4',
+            name: 'Admin Ditz',
             username: 'admin',
-            email: 'admin@gmail.com',
-            password: '11111'
+            email: 'ditzsamlekom@gmail.com',
+            password: 'gameburik'
         };
         users.push(user);
         localStorage.setItem('users', JSON.stringify(users));
