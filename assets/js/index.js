@@ -10,7 +10,7 @@ function createCategoriesTable() {
             {
                 id : 1, 
                 nama : 'SCRIPT BOT' ,
-                logo : 'assets/photos/games/scriptalya.jpg' ,
+                logo : 'assets/photos/logo.png' ,
             },
         ]
 
@@ -40,7 +40,6 @@ function createHostingTable() {
                 harga: 0,
                 categoryId: 1,
                 popular: 1,
-                banner : 'assets/photos/bannerGI.jpg',
                 deskripsi: 'SCRIPT BOT INI MERUPAKAN REMAKE DARI ADITYA SANG PEMBUAT WEBSITE'
             },
            
