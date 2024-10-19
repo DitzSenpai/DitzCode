@@ -65,25 +65,25 @@ function createTestimonialsTable() {
         let testimonialsLists = [
             {
                 id : 1, 
-                nama : 'Elmano' ,
+                nama : 'Bagas' ,
                 status : 'ProHostingr' ,
                 testimoni : 'DitzKun Store memberikan layanan yang cepat dan efisien. Saya sangat puas dengan pengalaman belanja online di sini!' ,
             }, 
             {
                 id : 2, 
-                nama : 'Jaylen' ,
+                nama : 'Bastian' ,
                 status : 'ProGramer' ,
                 testimoni : 'Belanja di DitzKun Store sangat praktis dan terjamin keamanannya.' ,
             },
             {
                 id : 3, 
-                nama : 'Alexander' ,
+                nama : 'Ryan' ,
                 status : 'Programmer' ,
                 testimoni : 'Saya selalu mendapatkan voucher Hosting dengan harga terbaik di DitzKun Store.' ,
             },
             {
                 id : 4, 
-                nama : 'Apollo' ,
+                nama : 'Raska' ,
                 status : 'Programmer' ,
                 testimoni : 'Mantap top up di DitzKun Store sangat amanah.' ,
             },
