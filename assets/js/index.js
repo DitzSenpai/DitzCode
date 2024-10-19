@@ -9,8 +9,8 @@ function createCategoriesTable() {
         let HostingCategoryLists = [
             {
                 id : 1, 
-                nama : 'Agus' ,
-                logo : 'assets/photos/game-category/br.png' ,
+                nama : 'SCRIPT BOT' ,
+                logo : 'assets/photos/games/scriptalya.jpg' ,
             },
         ]
 
@@ -34,7 +34,7 @@ function createHostingTable() {
             {
                 id : 0, 
                 nama : 'SCRIPT ALYA' ,
-                logo : 'assets/photos/games/Ditz.jpg' ,
+                logo : 'assets/photos/games/scriptalya.jpg' ,
                 genre : 'SCRIPT BOT',
                 item : 'SCRIPT',
                 harga: 0,
