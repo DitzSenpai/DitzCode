@@ -42,6 +42,7 @@ function createHostingTable() {
                 popular: 1,
                 deskripsi: 'SCRIPT BOT INI MERUPAKAN REMAKE DARI ADITYA SANG PEMBUAT WEBSITE'
             },
+            {
                 id : 1, 
                 nama : 'SCRIPT SHIROKO BOTZ' ,
                 logo : 'assets/photos/games/Shirokobotz.png' ,
